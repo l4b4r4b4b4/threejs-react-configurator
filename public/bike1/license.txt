@@ -1,0 +1,11 @@
+Model Information:
+* title:	Day 249: Babboe cargo bike
+* source:	https://sketchfab.com/3d-models/day-249-babboe-cargo-bike-abf96aa58f734875bcacddf9d01d76b1
+* author:	alban (https://sketchfab.com/alban)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Day 249: Babboe cargo bike" (https://sketchfab.com/3d-models/day-249-babboe-cargo-bike-abf96aa58f734875bcacddf9d01d76b1) by alban (https://sketchfab.com/alban) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
