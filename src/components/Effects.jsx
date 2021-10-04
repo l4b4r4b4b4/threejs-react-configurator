@@ -1,10 +1,10 @@
 import {
   EffectComposer,
   DepthOfField,
-  GodRays,
-  Noise,
-  Vignette,
-  Bloom,
+  // GodRays,
+  // Noise,
+  // Vignette,
+  // Bloom,
 } from "@react-three/postprocessing";
 import { useState, useEffect } from "react";
 import { useThree } from "@react-three/fiber";
