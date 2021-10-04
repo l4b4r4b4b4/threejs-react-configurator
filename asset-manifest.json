@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/threejs-react-configurator/static/css/main.a617e044.chunk.css",
-    "main.js": "/threejs-react-configurator/static/js/main.a0785d83.chunk.js",
-    "main.js.map": "/threejs-react-configurator/static/js/main.a0785d83.chunk.js.map",
+    "main.js": "/threejs-react-configurator/static/js/main.2ce9c4b9.chunk.js",
+    "main.js.map": "/threejs-react-configurator/static/js/main.2ce9c4b9.chunk.js.map",
     "runtime-main.js": "/threejs-react-configurator/static/js/runtime-main.f89c0c43.js",
     "runtime-main.js.map": "/threejs-react-configurator/static/js/runtime-main.f89c0c43.js.map",
-    "static/js/2.a200b63d.chunk.js": "/threejs-react-configurator/static/js/2.a200b63d.chunk.js",
-    "static/js/2.a200b63d.chunk.js.map": "/threejs-react-configurator/static/js/2.a200b63d.chunk.js.map",
+    "static/js/2.13e344f3.chunk.js": "/threejs-react-configurator/static/js/2.13e344f3.chunk.js",
+    "static/js/2.13e344f3.chunk.js.map": "/threejs-react-configurator/static/js/2.13e344f3.chunk.js.map",
     "static/js/3.86ab7877.chunk.js": "/threejs-react-configurator/static/js/3.86ab7877.chunk.js",
     "static/js/3.86ab7877.chunk.js.map": "/threejs-react-configurator/static/js/3.86ab7877.chunk.js.map",
     "index.html": "/threejs-react-configurator/index.html",
     "static/css/main.a617e044.chunk.css.map": "/threejs-react-configurator/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.a200b63d.chunk.js.LICENSE.txt": "/threejs-react-configurator/static/js/2.a200b63d.chunk.js.LICENSE.txt"
+    "static/js/2.13e344f3.chunk.js.LICENSE.txt": "/threejs-react-configurator/static/js/2.13e344f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f89c0c43.js",
-    "static/js/2.a200b63d.chunk.js",
+    "static/js/2.13e344f3.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.a0785d83.chunk.js"
+    "static/js/main.2ce9c4b9.chunk.js"
   ]
 }
