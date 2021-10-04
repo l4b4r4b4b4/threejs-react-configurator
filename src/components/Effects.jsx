@@ -15,7 +15,8 @@ const Effects = () => {
   useEffect(() => {
     if (scene.lights && scene.lights.length === 3) setLights(scene.lights);
   }, [scene.lights]);
-  return lights ? (
+  // return lights ? (
+  return (
     <EffectComposer>
       <DepthOfField
         focusDistance={0}
@@ -30,7 +31,8 @@ const Effects = () => {
       {/* <Noise opacity={0.02} /> */}
       {/* <Vignette eskil={false} offset={0.1} darkness={1.1} /> */}
     </EffectComposer>
-  ) : null;
+  );
+  // : null;
 };
 
 export default Effects;
