@@ -24,9 +24,9 @@ const Effects = () => {
         height={480}
       />
       <Bloom luminanceThreshold={0.9} luminanceSmoothing={0.99} height={480} />
-      {lights.map((light) => (
+      {/* {lights.map((light) => (
         <GodRays key={light.current.uuid} sun={light.current} />
-      ))}
+      ))} */}
       <Noise opacity={0.02} />
       <Vignette eskil={false} offset={0.1} darkness={1.1} />
     </EffectComposer>

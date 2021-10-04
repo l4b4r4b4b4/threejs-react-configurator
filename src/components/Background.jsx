@@ -5,7 +5,7 @@ import { useMemo } from "react";
 const Background = (props) => {
   const texture = useLoader(
     THREE.TextureLoader,
-    "https://l4b4r4b4b4.github.io/threejs-react-configurator/shopPanorama.jpeg"
+    "https://l4b4r4b4b4.github.io/threejs-react-configurator/autoshop.jpg"
   );
 
   //   const texture = useLoader(
