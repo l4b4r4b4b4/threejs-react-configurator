@@ -9,7 +9,7 @@ const Box = (props) => {
 
   const texture = useLoader(
     THREE.TextureLoader,
-    process.env.PUBLIC_URL + "/wood.jpg"
+    "https://l4b4r4b4b4.github.io/threejs-react-configurator/wood.jpg"
   );
 
   const handlePointerDown = (e) => {

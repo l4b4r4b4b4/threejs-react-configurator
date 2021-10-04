@@ -3,7 +3,10 @@ import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 import * as THREE from "three";
 // small change
 const Model = (props) => {
-  const model = useLoader(GLTFLoader, process.env.PUBLIC_URL + props.path);
+  const model = useLoader(
+    GLTFLoader,
+    "https://l4b4r4b4b4.github.io/threejs-react-configurator/" + props.path
+  );
   // const model = useLoader(GLTFLoader, process.env.PUBLIC_URL + props.path);
 
   let mixer;
