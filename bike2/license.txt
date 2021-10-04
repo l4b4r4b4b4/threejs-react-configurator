@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bicitaxi Lima-Peru
+* source:	https://sketchfab.com/3d-models/bicitaxi-lima-peru-ec1ad29ac1724bb097cf0532f639498c
+* author:	Peru_cargo_bike (https://sketchfab.com/peru_cargo_bike)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bicitaxi Lima-Peru" (https://sketchfab.com/3d-models/bicitaxi-lima-peru-ec1ad29ac1724bb097cf0532f639498c) by Peru_cargo_bike (https://sketchfab.com/peru_cargo_bike) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
